@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodianiabexce00bekkgoog_0008.png"; bbox 0 0 2475 3859; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 883 540 1594 716">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 883 540 1594 716">
+     <span class='ocr_line' id='line_1_1' title="bbox 954 540 1521 608; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 954 540 1102 608; x_wconf 71' lang='grc' dir='ltr'><strong>τηε</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1134 543 1303 605; x_wconf 66' lang='lat' dir='ltr'><strong>mzw</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1333 541 1521 606; x_wconf 69' lang='lat' dir='ltr'><strong>vom&lt;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 883 626 1594 716; baseline -0.003 -9"><span class='ocrx_word' id='word_1_4' title='bbox 883 629 1180 716; x_wconf 81' lang='lat' dir='ltr'><strong>PUBLIC</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1215 626 1594 706; x_wconf 74' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 858 952 1611 1067">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 858 952 1611 1067">
+     <span class='ocr_line' id='line_1_3' title="bbox 908 952 1552 1008; baseline -0.006 -8"><span class='ocrx_word' id='word_1_6' title='bbox 908 953 1138 1008; x_wconf 69' lang='grc' dir='ltr'><strong>ΑΒΤΟΒ,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1158 953 1384 1001; x_wconf 67' lang='lat' dir='ltr'><strong>mnox</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1407 952 1552 998; x_wconf 66' lang='lat' dir='ltr'><strong>Auo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 858 1016 1611 1067; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 858 1016 1111 1067; x_wconf 56' lang='grc' dir='ltr'><strong>ΜΕΝ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1141 1016 1611 1067; x_wconf 66' lang='lat' dir='ltr'><strong>muummus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1645 3489">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1645 3489">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1645 3489; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1645 3489; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1564 3579 2123 3678">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1564 3579 2123 3678">
+     <span class='ocr_line' id='line_1_6' title="bbox 1564 3579 2123 3678; baseline 0.002 -30"><span class='ocrx_word' id='word_1_12' title='bbox 1564 3620 1705 3656; x_wconf 51' lang='lat' dir='ltr'><strong>&amp;Ui-mci</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1721 3620 1755 3656; x_wconf 45' lang='lat'><strong>³:131</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1769 3579 1835 3648; x_wconf 70' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_15' title='bbox 1844 3604 1991 3678; x_wconf 59' lang='lat'><strong>003</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 2000 3579 2057 3648; x_wconf 65' lang='lat' dir='ltr'><strong>[C</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2117 3670 2123 3677; x_wconf 31' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
